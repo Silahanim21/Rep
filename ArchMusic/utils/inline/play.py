@@ -53,7 +53,8 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"🎧 ƓЄƇЄ MƲƧƖ̇Ƈ", 
-                url=f"https://t.me/sohbetikidebir"
+                url=f"https://t.me/sousihbetikidebir"
+            )
         ],
         [
             InlineKeyboardButton(
