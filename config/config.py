@@ -18,10 +18,10 @@ API_HASH = getenv("API_HASH", "eaa33aa1d9c47b197c3c81a8da988378")
 
 ## Get it from @Botfather in Telegram.
 
-BOT_TOKEN = getenv("BOT_TOKEN", "6757500151:AAGUL0YoLZJYKR93P-xpb_RjpqhLJTOQ3kw")
+BOT_TOKEN = getenv("BOT_TOKEN", "7342624106:AAFB2ZbdQjAgO5o8OKuI71W8NQ4u4PZSspA")
 # Database to save your chats and stats.
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://erkbwrs084:909090@cluster0.qdrfgmb.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madpanel:madboy11@atlascluster.gprqayn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 
@@ -45,7 +45,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002182187594"))
 
 # A name for your Music bot.
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","gecemuzicBot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","ervamüzikbot")
 
 # Your User ID.
 
